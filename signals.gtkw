@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Dec  2 12:58:17 2023
+[*]
+[dumpfile] "/home/kartik/Superscalar-23/wave.ghw"
+[dumpfile_mtime] "Sat Dec  2 12:56:44 2023"
+[dumpfile_size] 850
+[savefile] "/home/kartik/Superscalar-23/signals.gtkw"
+[timestart] 0
+[size] 1920 1078
+[pos] -51 -51
+*-23.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.testbench_tb.
+[sst_width] 273
+[signals_width] 130
+[sst_expanded] 1
+[sst_vpaned_height] 303
+@28
+top.testbench_tb.prediction
+top.testbench_tb.valid_in
+top.testbench_tb.result_in
+top.testbench_tb.reset
+top.testbench_tb.clk
+@420
+top.testbench_tb.instance.n
+@421
+top.testbench_tb.instance.p
+[pattern_trace] 1
+[pattern_trace] 0
